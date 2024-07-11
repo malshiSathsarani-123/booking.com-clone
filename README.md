@@ -1,5 +1,8 @@
 # Welcome to your Expo app 👋
 
+![WhatsApp Image 2024-07-11 at 10 06 44_bb0d4164](https://github.com/malshiSathsarani-123/booking.com-clone/assets/125174511/d61042f8-266c-49c7-aa7b-ea51cb49083d)
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
